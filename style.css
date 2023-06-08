@@ -1,0 +1,7 @@
+body{background-color: darkslategray;}
+#maindiv{box-shadow: 5px 10px; background-color: lightgrey;height: 400px;width: 350px;position: absolute;margin:auto;top:0;left:0;right:0;bottom:0;border-radius: 25px;padding: 10px}
+#maindiv table{height: 375px;width: 300px;margin-left: 30px;margin-top: 15px;}
+#maindiv input{width: 200px;height: 35px;font-size: larger; border: 2px solid black;}
+#maindiv button{height: 60px;width: 60px;border-radius: 50%;font-size: xx-large;background-color: black;color: white;}
+/*#maindiv .last{background-color: white;color: black;}*/
+#maindiv table td:last-child button{background-color: white;color: white;color: black;}
